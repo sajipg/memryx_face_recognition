@@ -1,0 +1,6 @@
+These files are downloaded from 
+
+https://github.com/memryx/MemryX_eXamples/tree/release/video_inference/realtime_multiface_recognition
+
+git clone https://github.com/memryx/MemryX_eXamples.git
+
